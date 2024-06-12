@@ -1,0 +1,789 @@
+.hichamLogo1 {
+  height: 42.3px;
+  width: 52.1px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.porters {
+  color: #38489e;
+}
+.uniporters {
+  font-size: 18px;
+  line-height: 28px;
+  font-family: Poppins;
+  min-width: 116px;
+  white-space: nowrap;
+  color: #362b48;
+}
+.help,
+.iconButton2,
+.uniporters {
+  position: relative;
+  display: none;
+}
+.iconButton2 {
+  height: 44px;
+  width: 44px;
+  border-radius: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.help {
+  line-height: 22px;
+  min-width: 32.5px;
+}
+.hichamLogo11 {
+  align-self: stretch;
+  height: 42.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.hichamLogo1Wrapper {
+  width: 52.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7.8px 0 0;
+  box-sizing: border-box;
+}
+.porters1 {
+  color: #38489e;
+}
+.uniporters1 {
+  text-decoration: none;
+  position: relative;
+  line-height: 28px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 116px;
+  white-space: nowrap;
+  color: inherit;
+}
+.uniportersWrapper {
+  width: 247.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15px 20px 0 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #362b48;
+  font-family: Poppins;
+}
+.home {
+  text-decoration: none;
+  position: relative;
+  line-height: 22px;
+  color: inherit;
+  display: inline-block;
+  min-width: 38px;
+}
+.frame,
+.frameWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame {
+  align-self: stretch;
+  background-color: transparent;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 17px 30px 16px;
+  cursor: pointer;
+}
+.frameWrapper {
+  width: 137.2px;
+  flex-direction: column;
+  padding: 0 25px 0 0;
+  box-sizing: border-box;
+}
+.bookARide1 {
+  text-decoration: none;
+  position: relative;
+  line-height: 22px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 78px;
+  white-space: nowrap;
+}
+.rectangle {
+  height: 4px;
+  flex: 1;
+  position: relative;
+  background-color: #15133c;
+}
+.bookARideParent,
+.rectangleWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 10px 0 5px;
+}
+.bookARideParent {
+  width: 78px;
+  flex-direction: column;
+  gap: 4.1px;
+}
+.myTrips {
+  text-decoration: none;
+  position: relative;
+  line-height: 22px;
+  color: #73777b;
+  display: inline-block;
+  min-width: 54px;
+  white-space: nowrap;
+}
+.container3Inner,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.container3Inner {
+  width: 211px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 16.5px 28px 0 0;
+  box-sizing: border-box;
+  color: #15133c;
+}
+.aboutUs {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  color: inherit;
+  flex-shrink: 0;
+}
+.frame1,
+.frameContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame1 {
+  width: 127px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 17px 0 16px 30px;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.frameContainer {
+  flex: 1;
+  flex-direction: column;
+  max-width: 100%;
+}
+.iconButton21 {
+  width: 44px;
+  height: 44px;
+  position: relative;
+  border-radius: 22px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconButton2Wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.4px 13px 0 0;
+}
+.help1 {
+  text-decoration: none;
+  position: relative;
+  line-height: 22px;
+  color: inherit;
+  display: inline-block;
+  min-width: 32.5px;
+}
+.helpWrapper {
+  width: 78.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 17px 20px 0 0;
+  box-sizing: border-box;
+}
+.amandaSmith {
+  text-decoration: none;
+  width: 38.4px;
+  position: relative;
+  line-height: 22px;
+  color: inherit;
+  display: inline-block;
+}
+.amandaSmithWrapper {
+  width: 65.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.3px 20px 0 0;
+  box-sizing: border-box;
+  color: #362b48;
+}
+.chevronDownLarge3 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.chevronDownLarge3Wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21.9px 0 0;
+}
+.container3,
+.container31 {
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  background-color: #fcf8ff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.container31 {
+  flex: 1;
+  align-items: flex-start;
+  padding: 0 24px 1px;
+  gap: 4.9px;
+  z-index: 1;
+}
+.container3 {
+  align-self: stretch;
+  align-items: flex-end;
+  padding: 0 0 0.4px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 14px;
+  color: #73777b;
+  font-family: Manrope;
+}
+.planYourTrip {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 68px;
+  font-weight: 300;
+  font-family: inherit;
+}
+.enterYourLocation {
+  width: 171px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.chevronDownLarge {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.chevronDownLargeWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.departureLocation {
+  width: 172px;
+  position: absolute;
+  margin: 0 !important;
+  top: -23px;
+  left: 0;
+  line-height: 22px;
+  font-weight: 700;
+  color: #424856;
+  display: inline-block;
+}
+.textfield {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 7px 11px 6px 12px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  gap: 20px;
+}
+.planYourTripWithEaseParent,
+.textfieldWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.textfieldWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 37px 0 33px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #bdc1ca;
+  font-family: Manrope;
+}
+.planYourTripWithEaseParent {
+  margin-left: -31px;
+  width: 551px;
+  flex-direction: column;
+  gap: 23px;
+  max-width: 113%;
+  flex-shrink: 0;
+  font-family: Lexend;
+}
+.enterYourDestination {
+  width: 171px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.chevronDownLarge1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.chevronDownLargeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.destination {
+  width: 172px;
+  position: absolute;
+  margin: 0 !important;
+  top: -23px;
+  left: 0;
+  line-height: 22px;
+  font-weight: 700;
+  color: #424856;
+  display: inline-block;
+}
+.textfield1 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 7px 11px 6px 12px;
+  position: relative;
+  gap: 20px;
+  color: #bdc1ca;
+}
+.timeOfTravel {
+  width: 203px;
+  line-height: 22px;
+  display: inline-block;
+}
+.am,
+.clockIcon,
+.timeOfTravel {
+  position: relative;
+}
+.am {
+  width: 197px;
+  border: 0;
+  outline: 0;
+  font-family: Manrope;
+  font-size: 14px;
+  background-color: transparent;
+  height: 22px;
+  line-height: 22px;
+  color: #171a1f;
+  text-align: left;
+  display: inline-block;
+  white-space: nowrap;
+  padding: 0;
+}
+.clockIcon {
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.clockWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.textfield2,
+.timeOfTravelParent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.textfield2 {
+  border-radius: 4px;
+  background-color: #f3f4f6;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 11px 6px 12px;
+  gap: 20px;
+}
+.timeOfTravelParent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 1px;
+}
+.eventDate {
+  width: 215px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.calendarIcon,
+.div {
+  position: relative;
+  flex-shrink: 0;
+}
+.div {
+  width: 218px;
+  line-height: 22px;
+  display: inline-block;
+}
+.calendarIcon {
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.calendarWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.eventDateParent,
+.textfield3 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.textfield3 {
+  border-radius: 4px;
+  background-color: #f3f4f6;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 11px 6px 12px;
+  gap: 20px;
+  color: #171a1f;
+}
+.eventDateParent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 1px;
+}
+.div1,
+.offerYourFar {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 101px;
+}
+.div1 {
+  min-width: 18px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.mad {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  font-family: Montserrat;
+  text-align: right;
+  display: inline-block;
+  min-width: 38px;
+}
+.offerYourFarParent,
+.textfield4 {
+  display: flex;
+  align-items: flex-start;
+}
+.textfield4 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #f3f4f6;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 11px 4px 12px;
+  gap: 20px;
+  color: #171a1f;
+}
+.offerYourFarParent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 1px;
+  min-width: 218px;
+  max-width: 100%;
+}
+.guests {
+  position: relative;
+  line-height: 22px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 51px;
+}
+.guestsWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2px;
+}
+.guests1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+}
+.pencilLineIcon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.guestsParent,
+.pencilLineWrapper,
+.textbox12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pencilLineWrapper {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.guestsParent,
+.textbox12 {
+  flex-direction: row;
+  gap: 12.5px;
+  color: #171a1f;
+}
+.textbox12 {
+  width: 116px;
+  border-radius: 6px;
+  background-color: #f3f4f6;
+  flex-direction: column;
+  padding: 7.5px 9px 6.5px;
+  box-sizing: border-box;
+  gap: 1px;
+  color: #424955;
+  font-family: Montserrat;
+}
+.frameDiv {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 30px;
+}
+.container29Inner,
+.frameDiv,
+.textfieldParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.textfieldParent {
+  flex: 1;
+  flex-direction: column;
+  gap: 21px;
+}
+.container29Inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 5px 0 2px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 14px;
+  color: #424856;
+}
+.bookNow {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.button2,
+.container29,
+.container29Wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button2 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #362b48;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 7px 0;
+  font-size: 16px;
+  color: #fcf8ff;
+}
+.container29,
+.container29Wrapper {
+  flex-direction: column;
+}
+.container29 {
+  align-self: stretch;
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(0, 0, 0, 0.19);
+  padding: 0 29px 53px;
+  gap: 43.3px;
+}
+.container29Wrapper {
+  width: 548px;
+  padding: 57px 0 0;
+  min-width: 548px;
+}
+.mapIcon {
+  height: 812px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: auto;
+  min-width: 530px;
+}
+.frameGroup,
+.signUpInner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.signUpInner {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 18px 0 25px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 30px;
+  color: #171a1f;
+  font-family: Manrope;
+}
+.bookARide,
+.signUp {
+  display: flex;
+  justify-content: flex-start;
+}
+.signUp {
+  flex: 1;
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  background-color: #fff;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0.4px 0 14px;
+  box-sizing: border-box;
+  gap: 17.6px;
+  max-width: 100%;
+}
+.bookARide {
+  width: 100%;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .container29Wrapper {
+    flex: 1;
+  }
+  .frameGroup {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .planYourTrip {
+    font-size: 24px;
+    line-height: 54px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frameDiv {
+    flex-wrap: wrap;
+  }
+  .container29 {
+    gap: 22px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .container29Wrapper {
+    padding-top: 37px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .mapIcon {
+    min-width: 100%;
+  }
+  .frameGroup {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .planYourTrip {
+    font-size: 18px;
+    line-height: 41px;
+  }
+}

@@ -1,0 +1,289 @@
+.logoFacebook1 {
+    position: absolute;
+    right: 196px;
+    bottom: 37px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .aboutUs1 {
+    left: 688.1px;
+    display: inline-block;
+    min-width: 93px;
+  }
+  .aboutUs1,
+  .services,
+  .workWith {
+    margin: 0;
+    position: absolute;
+    top: 84px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    font-family: Lexend;
+    color: #fcf8ff;
+  }
+  .workWith {
+    left: 496.3px;
+    display: inline-block;
+    width: 147.5px;
+    height: 34px;
+  }
+  .services {
+    left: 354px;
+  }
+  .joinUs {
+    top: 117px;
+    left: 700px;
+    line-height: 24px;
+    width: 132px;
+    height: 24px;
+  }
+  .contacts,
+  .joinUs,
+  .ourValues,
+  .userGuides {
+    position: absolute;
+    display: inline-block;
+  }
+  .contacts {
+    top: 168.8px;
+    left: 700px;
+    line-height: 24px;
+    width: 132px;
+    height: 24px;
+  }
+  .ourValues,
+  .userGuides {
+    line-height: 22px;
+  }
+  .ourValues {
+    top: 143.9px;
+    left: 700px;
+    width: 132px;
+  }
+  .userGuides {
+    top: 118px;
+    left: 517px;
+    min-width: 79px;
+  }
+  .packages {
+    top: 118px;
+    left: 362.8px;
+    min-width: 63px;
+  }
+  .brandInc,
+  .div,
+  .div1,
+  .packages,
+  .packages1,
+  .privacy {
+    position: absolute;
+    line-height: 22px;
+    display: inline-block;
+  }
+  .packages1 {
+    top: 143.9px;
+    left: 362.8px;
+    min-width: 53px;
+  }
+  .brandInc,
+  .div,
+  .div1,
+  .privacy {
+    bottom: 38px;
+    color: #f1eee9;
+  }
+  .brandInc {
+    left: calc(50% - 158px);
+    white-space: pre-wrap;
+    min-width: 121px;
+  }
+  .div,
+  .div1,
+  .privacy {
+    left: calc(50% - 17px);
+    min-width: 117px;
+  }
+  .div,
+  .div1 {
+    left: calc(50% + 104.8px);
+    font-size: 11px;
+    line-height: 18px;
+    min-width: 8px;
+  }
+  .div1 {
+    left: calc(50% - 31px);
+  }
+  .logoLinkedin1,
+  .logoYoutube1 {
+    position: absolute;
+    right: 132px;
+    bottom: 37px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .logoLinkedin1 {
+    right: 164px;
+  }
+  .inputYourEmail {
+    position: absolute;
+    top: calc(50% - 10.5px);
+    left: 34px;
+    line-height: 22px;
+    display: inline-block;
+    min-width: 103px;
+  }
+  .mailIcon {
+    position: absolute;
+    top: calc(50% - 7.5px);
+    left: 12px;
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+  }
+  .stayInThe,
+  .textbox2 {
+    position: absolute;
+    color: #fcf8ff;
+  }
+  .textbox2 {
+    top: 170.7px;
+    right: 248.7px;
+    border-radius: 4px 0 0 4px;
+    background-color: transparent;
+    border: 1px solid #fcf8ff;
+    box-sizing: border-box;
+    width: 287px;
+    height: 37px;
+    white-space: nowrap;
+  }
+  .stayInThe {
+    margin: 0;
+    top: 84px;
+    right: 376.2px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    font-family: Lexend;
+  }
+  .stayUpdatedWith {
+    position: absolute;
+    top: 133px;
+    right: 258.2px;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .subscribe {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: calc(50% - 32.5px);
+    font-size: 14px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fcf8ff;
+    text-align: left;
+    display: inline-block;
+    min-width: 66px;
+  }
+  .button9 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: #362b48;
+    position: absolute;
+    top: 171.2px;
+    right: 131px;
+    border-radius: 0 4px 4px 0;
+    width: 114px;
+    height: 36px;
+    overflow: hidden;
+  }
+  .blog,
+  .blog1,
+  .helpCenter,
+  .safety {
+    position: absolute;
+    display: inline-block;
+    width: 132px;
+  }
+  .helpCenter {
+    top: 142.9px;
+    left: 517px;
+    line-height: 24px;
+    height: 24px;
+  }
+  .blog,
+  .blog1,
+  .safety {
+    top: 220.5px;
+    left: 700px;
+    line-height: 22px;
+  }
+  .blog1,
+  .safety {
+    top: 245.3px;
+  }
+  .safety {
+    top: 195.7px;
+  }
+  .container28Child,
+  .hichamLogo11 {
+    position: absolute;
+    top: 344px;
+    left: 132px;
+    width: 1176px;
+    height: 1px;
+  }
+  .hichamLogo11 {
+    top: -2.2px;
+    left: -9.1px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .porters1 {
+    color: #38489e;
+  }
+  .uniporters2 {
+    position: absolute;
+    top: calc(50% - 14px);
+    left: 47.9px;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 112px;
+  }
+  .hichamLogo1Group {
+    position: absolute;
+    top: 46px;
+    left: 132px;
+    width: 43px;
+    height: 38px;
+    font-size: 18px;
+    color: #362b48;
+    font-family: Poppins;
+  }
+  .container28,
+  .logoInstagram1 {
+    position: absolute;
+    overflow: hidden;
+  }
+  .logoInstagram1 {
+    top: 399px;
+    left: 1192px;
+    width: 20px;
+    height: 20px;
+  }
+  .container28 {
+    width: 100%;
+    right: -1px;
+    bottom: 0;
+    left: 1px;
+    background-color: #9a89b4;
+    height: 458px;
+    text-align: left;
+    font-size: 14px;
+    color: #000;
+    font-family: Manrope;
+  }

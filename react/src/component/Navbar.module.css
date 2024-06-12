@@ -1,0 +1,375 @@
+.hichamLogo1 {
+    height: 42.3px;
+    width: 52.1px;
+    position: relative;
+    object-fit: cover;
+  }
+  .porters {
+    color: #38489e;
+  }
+  .uniporters {
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    min-width: 116px;
+    white-space: nowrap;
+  }
+  .uniportersWrapper {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 7.1px 0 0;
+  }
+  .frameWrapper,
+  .hichamLogo1Parent,
+  .uniportersWrapper {
+    display: flex;
+    align-items: flex-start;
+  }
+  .hichamLogo1Parent {
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 4.9px;
+  }
+  .frameWrapper {
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 4.8px;
+  }
+  .driver {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    min-width: 41px;
+  }
+  .rectangle {
+    height: 4px;
+    width: 30.2px;
+    position: relative;
+    background-color: #15133c;
+  }
+  .driverParent,
+  .frameContainer,
+  .rectangleWrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangleWrapper {
+    flex-direction: row;
+    padding: 0 5px;
+  }
+  .driverParent,
+  .frameContainer {
+    flex-direction: column;
+  }
+  .driverParent {
+    gap: 4.1px;
+  }
+  .frameContainer {
+    padding: 17px 11px 0 0;
+    color: #15133c;
+  }
+  .drive {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    min-width: 69px;
+    text-decoration: none;
+  }
+  .driveWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 17px 0 0;
+  }
+  .partners {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    min-width: 56px;
+    text-decoration: none;
+  }
+  .partnersWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16.5px 0 0;
+  }
+  .aboutUs {
+    flex: 1;
+    position: relative;
+    line-height: 22px;
+    text-decoration: none;
+  }
+  .frame {
+    flex: 1;
+    background-color: transparent;
+    overflow: hidden;
+    align-items: flex-start;
+    padding: 17px 0 16px 30px;
+    white-space: nowrap;
+  }
+  .frame,
+  .frameDiv,
+  .frameGroup,
+  .frameParent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .frameDiv {
+    width: 214px;
+    align-items: flex-start;
+    gap: 31px;
+  }
+  .frameGroup,
+  .frameParent {
+    max-width: 100%;
+  }
+  .frameGroup {
+    flex: 1;
+    align-items: flex-start;
+    gap: 59.9px;
+    font-size: 14px;
+    color: #73777b;
+    font-family: Manrope;
+  }
+  .frameParent {
+    width: 794.1px;
+    align-items: flex-end;
+    gap: 166.2px;
+  }
+  .iconButton2 {
+    height: 44px;
+    width: 44px;
+    position: relative;
+    border-radius: 22px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .help {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    min-width: 32.5px;
+    text-decoration: none;
+  }
+  .helpWrapper,
+  .iconButton2Parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .helpWrapper {
+    flex-direction: column;
+    padding: 10px 0 0;
+  }
+  .iconButton2Parent {
+    flex-direction: row;
+    gap: 18.7px;
+  }
+  .logIn {
+    position: relative;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #fcf8ff;
+    text-align: left;
+    display: inline-block;
+    min-width: 39px;
+    text-decoration: none;
+  }
+  .button2 {
+    cursor: pointer;
+    border: 0;
+    padding: 7px 18px 7px 19px;
+    background-color: #362b48;
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+  .button2:hover {
+    background-color: #695e7a;
+  }
+  .signUp {
+    position: relative;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: Manrope;
+    color: #362b48;
+    text-align: left;
+    display: inline-block;
+    min-width: 51px;
+    text-decoration: none;
+
+  }
+  .button1 {
+    cursor: pointer;
+    border: 1px solid #9a89b4;
+    padding: 5px 11px;
+    background-color: #fcf8ff;
+    flex: 1;
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+  .button1:hover {
+    background-color: #e3dee6;
+    border: 1px solid #80709c;
+    box-sizing: border-box;
+  }
+  .button2Parent {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 26px;
+  }
+  .button2Parent,
+  .frameParent1,
+  .frameWrapper1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameWrapper1 {
+    flex: 1;
+    flex-direction: column;
+    padding: 4px 0 0;
+  }
+  .frameParent1 {
+    align-self: stretch;
+    flex-direction: row;
+    gap: 44.8px;
+  }
+  .container3,
+  .container3Inner {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .container3Inner {
+    width: 317px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 5px;
+    font-size: 14px;
+    color: #73777b;
+    font-family: Manrope;
+  }
+  .container3 {
+    align-self: stretch;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    background-color: #fcf8ff;
+    overflow: hidden;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 0 16px 1px 24px;
+    top: 0;
+    z-index: 99;
+    position: sticky;
+    max-width: 100%;
+    gap: 20px;
+    text-align: left;
+    font-size: 18px;
+    color: #362b48;
+    font-family: Poppins;
+  }
+
+
+  
+@media screen and (max-width: 1150px) {
+  .frameDiv {
+    display: none;
+  }
+  .frameParent4 {
+    flex: 1;
+  }
+  .frameParent3 {
+    flex-wrap: wrap;
+  }
+  .frameParent2 {
+    gap: 38px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frameParent {
+    gap: 83px;
+  }
+  .areYouA {
+    font-size: 38px;
+    line-height: 54px;
+  }
+  .areYouA1,
+  .letsCollaborateFor {
+    font-size: 34px;
+    line-height: 38px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .button2Parent {
+    display: none;
+  }
+  .frameParent4 {
+    min-width: 100%;
+  }
+  .frameParent7 {
+    flex-wrap: wrap;
+  }
+  .letsCollaborateFor {
+    min-width: 100%;
+  }
+  .frameParent2 {
+    gap: 19px;
+  }
+  .onboardingQuestion1 {
+    gap: 91px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frameGroup {
+    gap: 30px;
+  }
+  .frameParent {
+    gap: 42px;
+  }
+  .frameParent1 {
+    gap: 22px;
+  }
+  .areYouA {
+    font-size: 29px;
+    line-height: 41px;
+  }
+  .frameParent5 {
+    flex-wrap: wrap;
+    gap: 22px;
+  }
+
+  
+  .areYouA1,
+  .letsCollaborateFor {
+    font-size: 26px;
+    line-height: 29px;
+  }
+  .frameParent9 {
+    gap: 22px;
+  }
+ 
+  
+  .container35 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .onboardingQuestion1 {
+    gap: 46px;
+  }
+}

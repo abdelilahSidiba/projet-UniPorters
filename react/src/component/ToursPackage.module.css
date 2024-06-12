@@ -1,0 +1,923 @@
+.toursPackages {
+    margin: 0;
+    position: absolute;
+    top: 96px;
+    left: 132px;
+    font-size: 48px;
+    line-height: 52px;
+    font-weight: 400;
+    font-family: "DM Sans";
+    color: #15133c;
+    z-index: 2;
+  }
+
+.container29 {
+  position: absolute;
+  width: 100%;
+  top: 598px;
+  right: -0.6px;
+  left: 0.6px;
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  background-color: #fcf8ff;
+  height: 732px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Manrope;
+
+  display: grid;
+  --spacer:1rem;
+  gap: var(--size-3);
+  grid-auto-flow: column;
+  grid-auto-columns: 21%;
+  overflow-x: auto;
+  overscroll-behavior-inline:contain;
+  padding: 30px 0;
+  margin: 10px 10px;
+}
+
+
+  .image9Icon {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 240px;
+    object-fit: cover;
+  }
+  .dayTripTo,
+  .days {
+    position: absolute;
+    display: inline-block;
+  }
+  .dayTripTo {
+    margin: 0;
+    width: calc(100% - 48px);
+    top: 260px;
+    left: 24px;
+    font-size: inherit;
+    line-height: 36px;
+    font-weight: 500;
+    font-family: inherit;
+  }
+  .days {
+    top: calc(50% - 10px);
+    left: calc(50% - 10.5px);
+    line-height: 20px;
+    min-width: 41px;
+  }
+  .frame3,
+  .timeMachineIcon {
+    position: absolute;
+    overflow: hidden;
+  }
+  .timeMachineIcon {
+    top: calc(50% - 8px);
+    left: calc(50% - 30.5px);
+    width: 16px;
+    height: 16px;
+  }
+  .frame3 {
+    top: 0;
+    left: 0;
+    border-radius: 14px;
+    background-color: #dee1e6;
+    width: 100%;
+    height: 100%;
+    white-space: nowrap;
+  }
+  .rating1Icon,
+  .tag1 {
+    position: absolute;
+    left: 24px;
+  }
+  .tag1 {
+    bottom: 53px;
+    background-color: transparent;
+    width: 77px;
+    height: 28px;
+    font-size: 12px;
+    color: #15133c;
+    font-family: Manrope;
+  }
+  .rating1Icon {
+    bottom: 21px;
+    width: 100px;
+    height: 20px;
+  }
+  .div2 {
+    top: calc(50% - 13px);
+    left: calc(50% - 24px);
+    font-size: 16px;
+    line-height: 26px;
+    font-family: Manrope;
+    color: #fcf8ff;
+    text-align: left;
+    display: inline-block;
+    min-width: 48px;
+    white-space: nowrap;
+  }
+  .div2,
+  .frame4,
+  .tag2 {
+    position: absolute;
+  }
+  .frame4 {
+    top: 0;
+    left: 0;
+    border-radius: 22px;
+    background-color: #9a89b4;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .tag2 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 24px;
+    left: 20px;
+    width: 80px;
+    height: 44px;
+  }
+  .container12 {
+    position: absolute;
+    top: 196px;
+    left: 132px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 2px 5px rgba(23, 26, 31, 0.09);
+    border-radius: 12px;
+    background-color: #fcf8ff;
+    border: 1px solid #9a89b4;
+    box-sizing: border-box;
+    width: 276px;
+    height: 440px;
+    font-family: "DM Sans";
+  }
+  .image10Icon {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 240px;
+    object-fit: cover;
+  }
+  .dayTripAcross,
+  .days1 {
+    position: absolute;
+    display: inline-block;
+  }
+  .dayTripAcross {
+    margin: 0;
+    width: calc(100% - 48px);
+    top: 260px;
+    left: 24px;
+    font-size: inherit;
+    line-height: 36px;
+    font-weight: 500;
+    font-family: inherit;
+  }
+  .days1 {
+    top: calc(50% - 10px);
+    left: calc(50% - 10.5px);
+    font-size: 12px;
+    line-height: 20px;
+    font-family: Manrope;
+    color: #15133c;
+    text-align: left;
+    min-width: 40px;
+  }
+  .timeMachineIcon1 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% - 30.5px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+  }
+  .frame5,
+  .tag3 {
+    position: absolute;
+  }
+  .frame5 {
+    top: 0;
+    left: 0;
+    border-radius: 14px;
+    background-color: #dee1e6;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .tag3 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    bottom: 52px;
+    left: 24px;
+    width: 77px;
+    height: 28px;
+  }
+  .div3 {
+    top: calc(50% - 13px);
+    left: calc(50% - 24px);
+    font-size: 16px;
+    line-height: 26px;
+    font-family: Manrope;
+    color: #fcf8ff;
+    text-align: left;
+    display: inline-block;
+    min-width: 48px;
+    white-space: nowrap;
+  }
+  .div3,
+  .frame6,
+  .tag4 {
+    position: absolute;
+  }
+  .frame6 {
+    top: 0;
+    left: 0;
+    border-radius: 22px;
+    background-color: #9a89b4;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .tag4 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 24px;
+    left: 20px;
+    width: 80px;
+    height: 44px;
+  }
+  .rating2Icon {
+    position: absolute;
+    bottom: 20px;
+    left: 24px;
+    width: 100px;
+    height: 20px;
+  }
+  .container13,
+  .image11Icon {
+    position: absolute;
+    overflow: hidden;
+  }
+  .container13 {
+    top: 196px;
+    left: 432px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 2px 5px rgba(23, 26, 31, 0.09);
+    border-radius: 12px;
+    background-color: #fcf8ff;
+    border: 1px solid #9a89b4;
+    box-sizing: border-box;
+    width: 276px;
+    height: 440px;
+    font-family: "DM Sans";
+  }
+  .image11Icon {
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+    height: 240px;
+    object-fit: cover;
+  }
+  .days2,
+  .monthCruiseToTaghazout {
+    position: absolute;
+    display: inline-block;
+  }
+  .monthCruiseToTaghazout {
+    margin: 0;
+    width: calc(100% - 48px);
+    top: 260px;
+    left: 24px;
+    font-size: inherit;
+    line-height: 36px;
+    font-weight: 500;
+    font-family: inherit;
+  }
+  .days2 {
+    top: calc(50% - 10px);
+    left: calc(50% - 11.5px);
+    font-size: 12px;
+    line-height: 20px;
+    font-family: Manrope;
+    color: #15133c;
+    text-align: left;
+    min-width: 43px;
+  }
+  .timeMachineIcon2 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% - 31.5px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+  }
+  .frame7,
+  .tag5 {
+    position: absolute;
+  }
+  .frame7 {
+    top: 0;
+    left: 0;
+    border-radius: 14px;
+    background-color: #dee1e6;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .tag5 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    bottom: 52px;
+    left: 24px;
+    width: 79px;
+    height: 28px;
+  }
+  .div4 {
+    top: calc(50% - 13px);
+    left: calc(50% - 22.5px);
+    font-size: 16px;
+    line-height: 26px;
+    font-family: Manrope;
+    color: #fcf8ff;
+    text-align: left;
+    display: inline-block;
+    min-width: 45px;
+    white-space: nowrap;
+  }
+  .div4,
+  .frame8,
+  .tag6 {
+    position: absolute;
+  }
+  .frame8 {
+    top: 0;
+    left: 0;
+    border-radius: 22px;
+    background-color: #9a89b4;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .tag6 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 24px;
+    left: 20px;
+    width: 77px;
+    height: 44px;
+  }
+  .rating3Icon {
+    position: absolute;
+    bottom: 20px;
+    left: 24px;
+    width: 100px;
+    height: 20px;
+  }
+  .container14 {
+    position: absolute;
+    top: 196px;
+    left: 732px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 2px 5px rgba(23, 26, 31, 0.09);
+    border-radius: 12px;
+    background-color: #fcf8ff;
+    border: 1px solid #9a89b4;
+    box-sizing: border-box;
+    width: 276px;
+    height: 440px;
+    font-family: "DM Sans";
+  }
+  .image12Icon,
+  .image9Icon1 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 240px;
+    object-fit: cover;
+  }
+  .days4Nights,
+  .tourInMarrakech {
+    position: absolute;
+    display: inline-block;
+  }
+  .tourInMarrakech {
+    margin: 0;
+    width: calc(100% - 48px);
+    top: 260px;
+    left: 24px;
+    font-size: inherit;
+    line-height: 36px;
+    font-weight: 500;
+    font-family: "DM Sans";
+    height: 36px;
+  }
+  .days4Nights {
+    top: calc(50% - 10px);
+    left: calc(50% - 34px);
+    line-height: 20px;
+    white-space: pre-wrap;
+    min-width: 88px;
+  }
+  .timeMachineIcon3 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% - 54px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+  }
+  .frame9,
+  .tag7 {
+    position: absolute;
+  }
+  .frame9 {
+    top: 0;
+    left: 0;
+    border-radius: 14px;
+    background-color: #dee1e6;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .tag7 {
+    bottom: 52px;
+    left: 24px;
+    background-color: transparent;
+    width: 124px;
+    height: 28px;
+    font-size: 12px;
+    color: #15133c;
+  }
+  .div5 {
+    top: calc(50% - 13px);
+    left: calc(50% - 22.5px);
+    line-height: 26px;
+    display: inline-block;
+    min-width: 45px;
+    white-space: nowrap;
+  }
+  .div5,
+  .frame10,
+  .tag8 {
+    position: absolute;
+  }
+  .frame10 {
+    top: 0;
+    left: 0;
+    border-radius: 22px;
+    background-color: #9a89b4;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .tag8 {
+    top: 24px;
+    left: 20px;
+    background-color: transparent;
+    width: 77px;
+    height: 44px;
+    font-size: 16px;
+    color: #fcf8ff;
+  }
+  .rating4Icon {
+    position: absolute;
+    bottom: 20px;
+    left: 24px;
+    width: 100px;
+    height: 20px;
+  }
+  .container15 {
+    position: absolute;
+    top: 196px;
+    left: 1032px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 2px 5px rgba(23, 26, 31, 0.09);
+    border-radius: 12px;
+    background-color: #fcf8ff;
+    border: 1px solid #9a89b4;
+    box-sizing: border-box;
+    width: 276px;
+    height: 440px;
+  }
+  .viewAll {
+    position: absolute;
+    top: calc(50% - 13px);
+    left: calc(50% - 43px);
+    line-height: 26px;
+    display: inline-block;
+    min-width: 56px;
+  }
+  .rightArrowIcon {
+    position: absolute;
+    top: calc(50% - 12px);
+    left: calc(50% + 19px);
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .frame11,
+  .tag9 {
+    position: absolute;
+    width: 118px;
+  }
+  .frame11 {
+    top: 0;
+    left: 0;
+    border-radius: 22px;
+    background-color: #f1eee9;
+    height: 44px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .tag9 {
+    top: 100px;
+    right: 134px;
+    background-color: transparent;
+    border-bottom: 1px solid #9a89b4;
+    box-sizing: border-box;
+    height: 45px;
+    font-size: 16px;
+    color: #9a89b4;
+  }
+  .image13Icon {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 240px;
+    object-fit: cover;
+  }
+  .natureHikeIn {
+    margin: 0;
+    position: absolute;
+    width: calc(100% - 48px);
+    top: 260px;
+    left: 24px;
+    font-size: inherit;
+    line-height: 36px;
+    font-weight: 500;
+    font-family: "DM Sans";
+    display: inline-block;
+  }
+  .days2Night {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: calc(50% - 28.5px);
+    line-height: 20px;
+  }
+  .timeMachineIcon4 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% - 48.5px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+  }
+  .frame12,
+  .tag10 {
+    position: absolute;
+  }
+  .frame12 {
+    top: 0;
+    left: 0;
+    border-radius: 14px;
+    background-color: #dee1e6;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .tag10 {
+    bottom: 52px;
+    left: 24px;
+    background-color: transparent;
+    width: 113px;
+    height: 28px;
+    font-size: 12px;
+    color: #15133c;
+  }
+  .div6 {
+    top: calc(50% - 13px);
+    left: calc(50% - 22.5px);
+    line-height: 26px;
+    display: inline-block;
+    min-width: 45px;
+    white-space: nowrap;
+  }
+  .div6,
+  .frame13,
+  .tag11 {
+    position: absolute;
+  }
+  .frame13 {
+    top: 0;
+    left: 0;
+    border-radius: 22px;
+    background-color: #9a89b4;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .tag11 {
+    top: 24px;
+    left: 20px;
+    background-color: transparent;
+    width: 77px;
+    height: 44px;
+    font-size: 16px;
+    color: #fcf8ff;
+  }
+  .rating5Icon {
+    position: absolute;
+    bottom: 20px;
+    left: 24px;
+    width: 100px;
+    height: 20px;
+  }
+  .container16 {
+    position: absolute;
+    top: 196px;
+    left: 1332px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 2px 5px rgba(23, 26, 31, 0.09);
+    border-radius: 12px;
+    background-color: #fcf8ff;
+    border: 1px solid #9a89b4;
+    box-sizing: border-box;
+    width: 276px;
+    height: 440px;
+  }
+  .image14Icon1 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 240px;
+    object-fit: cover;
+  }
+  .architectureTourIn {
+    margin: 0;
+    position: absolute;
+    width: calc(100% - 48px);
+    top: 260px;
+    left: 24px;
+    font-size: inherit;
+    line-height: 36px;
+    font-weight: 500;
+    font-family: "DM Sans";
+    display: inline-block;
+  }
+  .days1Night {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: calc(50% - 27.5px);
+    line-height: 20px;
+  }
+  .timeMachineIcon5 {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: calc(50% - 47.5px);
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+  }
+  .frame14,
+  .tag12 {
+    position: absolute;
+  }
+  .frame14 {
+    top: 0;
+    left: 0;
+    border-radius: 14px;
+    background-color: #dee1e6;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .tag12 {
+    bottom: 52px;
+    left: 24px;
+    background-color: transparent;
+    width: 111px;
+    height: 28px;
+    font-size: 12px;
+    color: #15133c;
+  }
+  .div7 {
+    top: calc(50% - 13px);
+    left: calc(50% - 21px);
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  .div7,
+  .frame15,
+  .tag13 {
+    position: absolute;
+  }
+  .frame15 {
+    top: 0;
+    left: 0;
+    border-radius: 22px;
+    background-color: #9a89b4;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  .tag13 {
+    top: 24px;
+    left: 20px;
+    background-color: transparent;
+    width: 74px;
+    height: 44px;
+    font-size: 16px;
+    color: #fcf8ff;
+  }
+  .rating6Icon {
+    position: absolute;
+    bottom: 20px;
+    left: 24px;
+    width: 100px;
+    height: 20px;
+  }
+  .container17 {
+    position: absolute;
+    top: 196px;
+    left: 1632px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 2px 5px rgba(23, 26, 31, 0.09);
+    border-radius: 12px;
+    background-color: #fcf8ff;
+    border: 1px solid #9a89b4;
+    box-sizing: border-box;
+    width: 276px;
+    height: 440px;
+  }
+  .search1Icon {
+    position: absolute;
+    top: calc(50% - 12px);
+    left: 30px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  
+  .search {
+    position: absolute;
+    display: inline-block;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+
+  }
+  .pickUpYour {
+    top: calc(50% - 14px);
+    left: 85.6px;
+    line-height: 28px;
+    width: 255.6px;
+    mix-blend-mode: hard-light;
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    display: inline-block;
+    
+    
+  }
+  .pickUpYour:focus{
+    border: none;
+    outline: none;
+  }
+  .pickUpYour::placeholder{
+    font-size: large;
+  }
+  .search {
+    top: calc(50% - 13px);
+    left: calc(50% - 26px);
+    line-height: 26px;
+    min-width: 52px;
+  }
+  .button6,
+  .pin34 {
+    position: absolute;
+    overflow: hidden;
+  }
+  .button6 {
+    top: calc(50% - 22px);
+    right: 15px;
+    border-radius: 4px;
+    background-color: #ec994b;
+    width: 124px;
+    height: 44px;
+    font-size: 16px;
+    color: #15133c;
+    cursor: pointer;
+  }
+  .pin34 {
+    top: calc(50% - 12px);
+    right: 324px;
+    width: 24px;
+    height: 24px;
+  }
+  .rabatCity {
+    position: absolute;
+    top: calc(50% - 14px);
+    right: 166px;
+    line-height: 28px;
+    display: inline-block;
+    width: 137px;
+    mix-blend-mode: hard-light;
+  }
+  .container10Child {
+    position: absolute;
+    top: 17px;
+    left: 481px;
+    width: 1px;
+    height: 35px;
+  }
+  .container10 {
+    position: absolute;
+    top: -26px;
+    left: calc(50% - 577px);
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 4px 9px rgba(23, 26, 31, 0.11);
+    border-radius: 10px;
+    background-color: #f1eee9;
+    width: 854px;
+    height: 74px;
+    font-size: 18px;
+    color: #323743;
+    top: 598px;
+    z-index: 1;
+ 
+    /* position: absolute;
+    width: 100%;
+   
+    right: -0.6px;
+    left: 0.6px;
+    box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+    background-color: #fcf8ff;
+    height: 732px;
+    text-align: left;
+    font-size: 24px;
+    color: #000;
+    font-family: Manrope;
+    z-index: 2000;
+     */
+  }
+
+
+
+  .chevronDownLarge1 {
+    position: absolute;
+    top: 14px;
+    left: 251px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+  }
+  .newEventsInNycParent {
+    position: absolute;
+    top: -2px;
+    left: -2644px;
+    width: 307px;
+    height: 48px;
+    font-size: 32px;
+    color: #171a1f;
+    font-family: Lexend;
+  }
+.avatar14Icon {
+  right: 132px;
+}

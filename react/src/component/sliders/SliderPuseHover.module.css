@@ -1,0 +1,88 @@
+/* ImageSlider.module.css */
+/* .sliderContainer {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 556.5px);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 556.5px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  } */
+
+ /* ImageSlider.module.css */
+.sliderContainer {
+    position: absolute;
+  height: 100%;
+  width: calc(100% - 556.5px);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 556.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  }
+  
+  .imageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    position: relative; 
+  }
+  
+  .image {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 1s ease, transform 1s ease; 
+    height: 100%;
+  }
+  
+  .image.active {
+    opacity: 1; 
+    transform: translateX(0); 
+  }
+  
+  .image.prev {
+    transform: translateX(-100%); 
+  }
+  
+  .image.next {
+    transform: translateX(100%); 
+  }
+  
+  .navButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.3s ease; 
+  }
+  
+  .sliderContainer:hover .navButton {
+    opacity: 1;
+  }
+  
+  .navButton:first-of-type {
+    left: 10px;
+  }
+  
+  .navButton:last-of-type {
+   right: 10px;
+  }
+  

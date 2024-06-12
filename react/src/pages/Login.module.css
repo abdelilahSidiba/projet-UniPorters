@@ -1,0 +1,390 @@
+.image27Icon,
+.signUpChild {
+  position: absolute;
+  top: 0;
+  height: 900px;
+}
+.image27Icon {
+  left: 0;
+  width: 1440px;
+  object-fit: cover;
+}
+.iconButton1 {
+  position: absolute;
+  top: -21px;
+  right: -21px;
+  border-radius: 22px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.signUpChild {
+  left: 1px;
+  background-color: #fcf8ff;
+  width: 1439px;
+}
+.hichamLogo1,
+.image21Icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image21Icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0.14px;
+  bottom: 0;
+  left: -0.14px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hichamLogo1 {
+  top: -2.16px;
+  left: -9.06px;
+  width: 52.1px;
+  height: 42.3px;
+}
+.porters {
+  color: #38489e;
+}
+.uniporters {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: 47.92px;
+  line-height: 28px;
+}
+.hichamLogo1Parent {
+  position: absolute;
+  top: 10px;
+  left: 34px;
+  width: 43px;
+  height: 38px;
+}
+.iconButton2 {
+  position: absolute;
+  top: calc(50% - 22px);
+  right: 70px;
+  border-radius: 22px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.help {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 16.26px);
+  line-height: 22px;
+  display: inline-block;
+  width: 32.5px;
+}
+.container3,
+.frame,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.frame {
+  top: 0;
+  left: 1370px;
+  background-color: transparent;
+  width: 70px;
+  height: 54px;
+  font-size: 14px;
+  color: #73777b;
+  font-family: Manrope;
+}
+.container3,
+.vectorIcon {
+  width: 100%;
+}
+.container3 {
+  top: 0.42px;
+  right: 0.14px;
+  left: -0.14px;
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  background-color: #fcf8ff;
+  height: 56px;
+}
+.vectorIcon {
+  right: 0;
+  bottom: -1px;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.email{
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: 0;
+  line-height: 22px;
+}
+.exampleemailgmailcom {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: 0;
+  line-height: 22px;
+  border: none;
+  background-color: transparent;
+  width: 100%;
+ 
+}
+.exampleemailgmailcom:focus{
+border: none;
+outline: none;
+
+}
+.email {
+  top: calc(50% - 22.5px);
+  color: #424856;
+}
+.textbox3 {
+  position: absolute;
+  width: calc(100% - 192px);
+  top: 180px;
+  right: 96px;
+  left: 96px;
+  border-radius: 4px 4px 0 0;
+  background-color: transparent;
+  height: 52px;
+  color: #bdc1ca;
+}
+
+
+
+.hideIcon {
+  position: absolute;
+  overflow: hidden;
+  top: calc(50% + 3.5px);
+  right: 0;
+  width: 16px;
+  height: 16px;
+}
+.textbox4 {
+  width: calc(100% - 192px);
+  top: 256px;
+  right: 96px;
+  left: 96px;
+  border-radius: 4px 4px 0 0;
+  background-color: transparent;
+  height: 52px;
+  color: #bdc1ca;
+}
+.orSignUp,
+.text,
+.textbox4 {
+  position: absolute;
+}
+
+.text {
+  top: calc(50% - 13px);
+  left: calc(50% + 10px);
+  line-height: 26px;
+}
+.logoFacebookIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 10px);
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.button13 {
+  position: absolute;
+  top: 495px;
+  left: calc(50% + 8.5px);
+  border-radius: 2px;
+  background-color: #f3f6fb;
+  width: 171px;
+  height: 44px;
+  overflow: hidden;
+  font-size: 16px;
+  color: #335ca6;
+  cursor: pointer;
+}
+.button13:hover{
+  background-color: #899ec5;
+  transition: all 1.5s ease;
+}
+.button14 {
+  position: absolute;
+  top: 495px;
+  left: calc(50% + 8.5px);
+  border-radius: 2px;
+  background-color: #f3f6fb;
+  width: 171px;
+  height: 44px;
+  overflow: hidden;
+  font-size: 16px;
+  left: calc(50% - 179.5px);
+  background-color: #fef1f1;
+  cursor: pointer;
+  
+}
+.button14:hover{
+  background-color: #e8b2ba;
+  transition: all 1.5s ease;
+}
+.createAnAccount,
+.welcome {
+  position: absolute;
+  top: 44px;
+  left: calc(50% - 114.5px);
+  font-size: 48px;
+  line-height: 68px;
+  font-family: Lexend;
+}
+.createAnAccount {
+  top: 114px;
+  left: calc(50% - 70.5px);
+  font-size: 18px;
+  line-height: 28px;
+  color: #9095a1;
+}
+.iAgreeWithContainer {
+  position: absolute;
+  top: 332px;
+  left: 118px;
+  line-height: 22px;
+}
+
+/*########### begin check box ###########################################################*/
+.checkboxContainer {
+  position: absolute;
+  top: 332px;
+  left: 96px;
+}
+
+.checkboxLabel {
+  position: relative;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.checkboxInput {
+  display: none; /* إخفاء عنصر الإدخال الافتراضي */
+}
+
+.customCheckbox {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background-color: transparent;
+  border: 1px solid #38489e;
+  border-radius: 2px;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.checkboxInput:checked + .customCheckbox {
+  background-color: #38489e;
+  border: 1px solid #38489e;
+}
+
+.checkboxInput:checked + .customCheckbox::after {
+  content: '';
+  position: absolute;
+  left: 4px;
+  top: 0px;
+  width: 4px;
+  height: 8px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.checkboxText {
+  line-height: 22px;
+  display: inline-block;
+}
+
+/*########### end check box #######################################################*/
+.alreadyHaveAn,
+.logIn {
+  position: absolute;
+  bottom: 35px;
+  line-height: 22px;
+}
+.alreadyHaveAn {
+  left: calc(50% - 108.5px);
+  text-align: right;
+}
+.logIn {
+  left: calc(50% + 64.5px);
+  color: #38489e;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.container29 {
+  position: absolute;
+  top: calc(50% - 317px);
+  left: calc(50% - 275px);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 551px;
+  height: 635px;
+  font-size: 14px;
+  color: #171a1f;
+  font-family: Manrope;
+}
+
+
+
+.button2 {
+  position: absolute;
+  overflow: hidden;
+  top: calc(50% + 54.5px);
+  right: 96px;
+  border-radius: 4px;
+  background-color: #362b48;
+  width: 359px;
+  height: 36px;
+  color: #fcf8ff;
+  cursor: pointer;
+}
+
+.button2:hover{
+  background-color: #695e7a;
+}
+.signUp1 {
+  
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 25.5px);
+  line-height: 22px;
+
+}
+.signUp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  background-color: #fff;
+  width: 1440px;
+  height: 900px;
+  overflow: hidden;
+}
+
+.orSignUp {
+  top: 455px;
+  left: calc(50% - 47.5px);
+  line-height: 22px;
+  color: #9095a1;
+  text-align: center;
+}
+
+.signUpParent {
+  width: 100%;
+  position: relative;
+  height: 900px;
+  text-align: left;
+  font-size: 18px;
+  color: #362b48;
+  font-family: Poppins;
+}
